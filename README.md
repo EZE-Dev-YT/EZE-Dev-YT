@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @ABadDev
-- 👀 I’m interested in learning C#, C++
-- 🌱 I’m currently learning HTML
-- 📫 How to reach me 
+<h1 align="center">EZE-Dev-YT</h1>
+<h3 align="center">goofy ahh programmer</h3>
 
-<!---
-ABadDev/ABadDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m currently working on **Minecraft and game crap**
+
+- 🌱 I’m currently learning **Everything I guess**
+
+
+<summary> <strong>GitHub</strong> </summary>
+
+![EZE-Dev-YT github stats! (not your's rxversed :) )](https://github-readme-stats.vercel.app/api?username=EZE-Dev-YT&show_icons=true&theme=tokyonight) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZE-Dev-YT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/EZE-Dev-YT?template=terminal&config.timezone=America%2FLos_Angeles) 
+
+<summary>  </summary>
