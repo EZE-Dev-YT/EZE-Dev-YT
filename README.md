@@ -1,5 +1,5 @@
 <h1 align="center">EZE-Dev-YT</h1>
-<h3 align="center">goofy ahh programmer</h3>
+<h3 align="center">Shitty a$$ programmer</h3>
 
 - I’m currently working on **Minecraft and game crap**
 
@@ -12,7 +12,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZE-Dev-YT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](https://metrics.lecoq.io/EZE-Dev-YT?template=terminal&config.timezone=America%2FLos_Angeles) 
-
-<summary>  </summary>
